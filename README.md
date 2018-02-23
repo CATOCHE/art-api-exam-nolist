@@ -7,7 +7,9 @@
 * Art API will work with a CouchDB database such as the one provided by roo or by IBM Cloudant.
   In order to create a roo database it is first necessary to obtain an account at the JRS School. A database is created by entering the command:
 
+```
 $ roo db add <database-name>
+```
 
 ### Clone your repo
 
